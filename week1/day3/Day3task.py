@@ -9,6 +9,7 @@ elif age>=18 and age<=24:
     print("category:Young Adults")
 elif age>=25 and age<=59:
     print("category:Adults")
+
 elif age>=59 and age<=150:
     print("category:Senior")
 else:
